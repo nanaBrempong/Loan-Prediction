@@ -1,0 +1,3 @@
+Logistic Regression Accuracy: {logreg_acc}
+Decision Tree Accuracy: {dt_acc}
+Random Forest Accuracy: {rf_acc}
